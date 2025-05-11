@@ -1,5 +1,9 @@
 {
   "name": "react-portfolio",
+   "homepage": "https://CreigBoyd.github.io/GreenT",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
   "private": true,
   "version": "1.0.0",
   "type": "module",
