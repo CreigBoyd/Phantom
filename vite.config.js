@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/GreenT/',
+  base: 'https://creigboyd.github.io/GreenT/',
   plugins: [react()],
   css: {
     preprocessorOptions: {
