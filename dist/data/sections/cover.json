@@ -4,28 +4,28 @@
             "title": "Welcome!",
             "title_menu": "About me",
             "title_long_prefix": "Hello...",
-            "title_long": "I'm **Mark Choi!**"
+            "title_long": "I'm **CreigBjr**"
         },
 
         "es": {
             "title": "¡Saludos!",
             "title_menu": "Sobre mí",
             "title_long_prefix": "Hola...",
-            "title_long": "Soy **Mark Choi!**"
+            "title_long": "Soy **CreigBjr**"
         },
 
         "fr": {
             "title": "Salut !",
             "title_menu": "À propos",
             "title_long_prefix": "Salut...",
-            "title_long": "Je suis **Mark Choi!**"
+            "title_long": "Je suis **CreigBjr**"
         },
 
         "ko": {
             "title": "환영합니다!",
             "title_menu": "소개",
             "title_long_prefix": "안녕하세요...",
-            "title_long": "저는 **Mark Choi** 입니다!"
+            "title_long": "저는 **CreigBjr** 입니다!"
         }
     },
 
@@ -59,7 +59,7 @@
                 {
                     "value": "mark.choi@dev.com",
                     "links": [
-                        {"href": "mailto:mark.choi@dev.com"}
+                        {"href": "mailto:CreigBjr@dev.com"}
                     ],
                     "icon": {
                         "img": null,
@@ -68,9 +68,9 @@
                     }
                 },
                 {
-                    "value": "@ryanbalieiro",
+                    "value": "@CreigBjr",
                     "links": [
-                        {"href": "https://github.com/ryanbalieiro"}
+                        {"href": "https://github.com/CreigBjr"}
                     ],
                     "icon": {
                         "img": null,
@@ -134,15 +134,15 @@
                     "locales": {
                         "en": {
                             "info": "CEO at <b>SalesForce</b>",
-                            "text": "Working with Mark was a transformative experience. His programming skills and dedication not only improved our project but also inspired the entire team."
+                            "text": "Working with CreigBjr was a transformative experience. His programming skills and dedication not only improved our project but also inspired the entire team."
                         },
                         "es": {
                             "info": "CEO en <b>SalesForce</b>",
-                            "text": "Trabajar con Mark fue una experiencia transformadora. Sus habilidades de programación y dedicación no solo mejoraron nuestro proyecto, sino que también inspiraron a todo el equipo."
+                            "text": "Trabajar con CreigBjr fue una experiencia transformadora. Sus habilidades de programación y dedicación no solo mejoraron nuestro proyecto, sino que también inspiraron a todo el equipo."
                         },
                         "fr": {
                             "info": "PDG de <b>SalesForce</b>",
-                            "text": "Travailler avec Mark a été une expérience transformative. Ses compétences en programmation et son dévouement ont non seulement amélioré notre projet, mais ont également inspiré toute l'équipe."
+                            "text": "Travailler avec CreigBjr a été une expérience transformative. Ses compétences en programmation et son dévouement ont non seulement amélioré notre projet, mais ont également inspiré toute l'équipe."
                         },
                         "ko": {
                             "info": "세일즈포스  CEO",
@@ -164,15 +164,15 @@
                     "locales": {
                         "en": {
                             "info": "Lead Developer at <b>GitHub</b>",
-                            "text": "Having Mark on our team was an invaluable asset. His deep programming insights and mentorship not only elevated our projects but also empowered us to tackle every challenge with confidence and creativity."
+                            "text": "Having CreigBjr on our team was an invaluable asset. His deep programming insights and mentorship not only elevated our projects but also empowered us to tackle every challenge with confidence and creativity."
                         },
                         "es": {
                             "info": "Desarrollador Principal en <b>GitHub </b>",
-                            "text": "Tener a Mark en nuestro equipo fue un activo invaluable. Sus profundas ideas sobre programación y su mentoría no solo elevaron nuestros proyectos, sino que también nos empoderaron para enfrentar cada desafío con confianza."
+                            "text": "Tener a CreigBjr en nuestro equipo fue un activo invaluable. Sus profundas ideas sobre programación y su mentoría no solo elevaron nuestros proyectos, sino que también nos empoderaron para enfrentar cada desafío con confianza."
                         },
                         "fr": {
                             "info": "Développeur Principal chez <b>GitHub </b>",
-                            "text": "Avoir Mark dans notre équipe a été un atout inestimable. Ses connaissances approfondies en programmation et son mentorat ont non seulement élevé nos projets, mais nous ont également permis de relever chaque défi avec confiance."
+                            "text": "Avoir CreigBjr dans notre équipe a été un atout inestimable. Ses connaissances approfondies en programmation et son mentorat ont non seulement élevé nos projets, mais nous ont également permis de relever chaque défi avec confiance."
                         },
                         "ko": {
                             "info": "<b>GitHub</b> 수석 개발자",
@@ -194,15 +194,15 @@
                     "locales": {
                         "en": {
                             "info": "Managing Director at <b>Dingga</b>",
-                            "text": "Collaborating with Mark was a game changer for our development process. His expertise and problem-solving abilities were invaluable to our success."
+                            "text": "Collaborating with CreigBjr was a game changer for our development process. His expertise and problem-solving abilities were invaluable to our success."
                         },
                         "es": {
                             "info": "Directora General en <b>Dingga</b>",
-                            "text": "Colaborar con Mark fue un cambio de juego para nuestro proceso de desarrollo. Su experiencia y habilidades para resolver problemas fueron invaluables para nuestro éxito."
+                            "text": "Colaborar con CreigBjr fue un cambio de juego para nuestro proceso de desarrollo. Su experiencia y habilidades para resolver problemas fueron invaluables para nuestro éxito."
                         },
                         "fr": {
                             "info": "Directrice Générale chez <b>Dingga</b>",
-                            "text": "Collaborer avec Mark a été un tournant pour notre processus de développement. Son expertise et ses capacités à résoudre des problèmes ont été inestimables pour notre succès."
+                            "text": "Collaborer avec CreigBjr a été un tournant pour notre processus de développement. Son expertise et ses capacités à résoudre des problèmes ont été inestimables pour notre succès."
                         },
                         "ko": {
                             "info": "딩가 전무이사",
@@ -224,15 +224,15 @@
                     "locales": {
                         "en": {
                             "info": "Creative Director at <b>Dribbble</b>",
-                            "text": "Mark's attention to detail and his innovative thinking brought a fresh perspective to our design process. He truly elevated our team's work and helped us deliver results beyond expectations."
+                            "text": "CreigBjr attention to detail and his innovative thinking brought a fresh perspective to our design process. He truly elevated our team's work and helped us deliver results beyond expectations."
                         },
                         "es": {
                             "info": "Directora Creativa en <b>Dribbble</b>",
-                            "text": "La atención al detalle de Mark y su pensamiento innovador aportaron una nueva perspectiva a nuestro proceso de diseño. Realmente elevó el trabajo de nuestro equipo y nos ayudó a ofrecer resultados más allá de lo esperado."
+                            "text": "La atención al detalle de CreigBjr y su pensamiento innovador aportaron una nueva perspectiva a nuestro proceso de diseño. Realmente elevó el trabajo de nuestro equipo y nos ayudó a ofrecer resultados más allá de lo esperado."
                         },
                         "fr": {
                             "info": "Directrice Créative chez <b>Dribbble</b>",
-                            "text": "L'attention aux détails de Mark et sa pensée innovante ont apporté une nouvelle perspective à notre processus de design. Il a véritablement élevé le travail de notre équipe et nous a aidés à livrer des résultats au-delà des attentes."
+                            "text": "L'attention aux détails de CreigBjr et sa pensée innovante ont apporté une nouvelle perspective à notre processus de design. Il a véritablement élevé le travail de notre équipe et nous a aidés à livrer des résultats au-delà des attentes."
                         },
                         "ko": {
                             "info": "<b>Dribbble</b> 크리에이티브 디렉터",
