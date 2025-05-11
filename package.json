@@ -1,12 +1,12 @@
 {
   "name": "react-portfolio",
-  "homepage": "https://creigboyd.github.io/GreenT/",
+  "homepage": "https://CreigBoyd.github.io/GreenT/",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
