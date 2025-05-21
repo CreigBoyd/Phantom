@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "homepage": "https://www.603Phantom.org",
-=======
   "homepage": "https://www.603phantom.org",
->>>>>>> 56b6b150b65cc5d2f573fe1abb51010ea9ee410f
   "name": "react-portfolio",
   "private": true,
   "version": "1.0.0",
